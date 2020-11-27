@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile! I'm Fabrice and I like to build things with computers! I'm from France 🇫🇷, living in Ireland 🇮🇪 and currently working at Shutterstock.
+
+
 <!--
 **fabrice404/fabrice404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
