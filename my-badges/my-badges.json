@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"updates\".",
-    "body": "My favorite commit message words are:\n\n1. updates (used 1286 times)\n2. bump (used 1041 times)\n3. calendar (used 977 times)\n4. group (used 886 times)\n5. dependencies-patch-and-minor (used 874 times)",
+    "body": "My favorite commit message words are:\n\n1. updates (used 1186 times)\n2. bump (used 1041 times)\n3. group (used 886 times)\n4. calendar (used 877 times)\n5. dependencies-patch-and-minor (used 874 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/fabrice404/olympics-calendar\">fabrice404/olympics-calendar: ★81</a>\n* <a href=\"https://github.com/shutterstock/gremlin-aws-sigv4\">shutterstock/gremlin-aws-sigv4: ★29</a>\n* <a href=\"https://github.com/fabrice404/geoguessr-timer\">fabrice404/geoguessr-timer: ★8</a>\n* <a href=\"https://github.com/fabrice404/caisse-epargne-scraper\">fabrice404/caisse-epargne-scraper: ★4</a>\n* <a href=\"https://github.com/fabrice404/aib-scraper\">fabrice404/aib-scraper: ★2</a>\n* <a href=\"https://github.com/fabrice404/cv\">fabrice404/cv: ★1</a>\n* <a href=\"https://github.com/fabrice404/temperature-api\">fabrice404/temperature-api: ★1</a>\n* <a href=\"https://github.com/fabrice404/daft-scraper\">fabrice404/daft-scraper: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/fabrice404/olympics-calendar\">fabrice404/olympics-calendar: ★82</a>\n* <a href=\"https://github.com/shutterstock/gremlin-aws-sigv4\">shutterstock/gremlin-aws-sigv4: ★29</a>\n* <a href=\"https://github.com/fabrice404/geoguessr-timer\">fabrice404/geoguessr-timer: ★8</a>\n* <a href=\"https://github.com/fabrice404/caisse-epargne-scraper\">fabrice404/caisse-epargne-scraper: ★4</a>\n* <a href=\"https://github.com/fabrice404/aib-scraper\">fabrice404/aib-scraper: ★2</a>\n* <a href=\"https://github.com/fabrice404/cv\">fabrice404/cv: ★1</a>\n* <a href=\"https://github.com/fabrice404/temperature-api\">fabrice404/temperature-api: ★1</a>\n* <a href=\"https://github.com/fabrice404/daft-scraper\">fabrice404/daft-scraper: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {

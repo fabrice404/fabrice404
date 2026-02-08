@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/fabrice404/olympics-calendar">fabrice404/olympics-calendar: ★81</a>
+* <a href="https://github.com/fabrice404/olympics-calendar">fabrice404/olympics-calendar: ★82</a>
 * <a href="https://github.com/shutterstock/gremlin-aws-sigv4">shutterstock/gremlin-aws-sigv4: ★29</a>
 * <a href="https://github.com/fabrice404/geoguessr-timer">fabrice404/geoguessr-timer: ★8</a>
 * <a href="https://github.com/fabrice404/caisse-epargne-scraper">fabrice404/caisse-epargne-scraper: ★4</a>

@@ -4,10 +4,10 @@
 
 My favorite commit message words are:
 
-1. updates (used 1286 times)
+1. updates (used 1186 times)
 2. bump (used 1041 times)
-3. calendar (used 977 times)
-4. group (used 886 times)
+3. group (used 886 times)
+4. calendar (used 877 times)
 5. dependencies-patch-and-minor (used 874 times)
 
 
