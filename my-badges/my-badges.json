@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"updates\".",
-    "body": "My favorite commit message words are:\n\n1. updates (used 1486 times)\n2. calendar (used 1175 times)\n3. bump (used 1045 times)\n4. group (used 890 times)\n5. dependencies-patch-and-minor (used 878 times)",
+    "body": "My favorite commit message words are:\n\n1. updates (used 1385 times)\n2. calendar (used 1072 times)\n3. bump (used 1053 times)\n4. group (used 898 times)\n5. dependencies-patch-and-minor (used 886 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/510ab1654fec4833c1ba4059f93788ccf5007954\">510ab16</a>\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/70895ba903152a6b3434382a99622572627791c0\">70895ba</a>\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/78e8163399b8ca103d42044c0ff8644b1260f4e0\">78e8163</a>\n- <a href=\"https://github.com/fabrice404/AoC/commit/5956bea50037fe9e150aa07dbc67f790b01af50b\">5956bea</a>\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/8177d7870ff4e7f4e10388035a79af0735540e03\">8177d78</a>\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/b84e8a1ae8a8c34a08deda5919ab02bc0c4a3d99\">b84e8a1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/6d5273c0fd7fb4a934a83faaa84a2c938b49af2c\">6d5273c</a>\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/510ab1654fec4833c1ba4059f93788ccf5007954\">510ab16</a>\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/70895ba903152a6b3434382a99622572627791c0\">70895ba</a>\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/78e8163399b8ca103d42044c0ff8644b1260f4e0\">78e8163</a>\n- <a href=\"https://github.com/fabrice404/AoC/commit/5956bea50037fe9e150aa07dbc67f790b01af50b\">5956bea</a>\n- <a href=\"https://github.com/fabrice404/olympics-calendar/commit/8177d7870ff4e7f4e10388035a79af0735540e03\">8177d78</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
